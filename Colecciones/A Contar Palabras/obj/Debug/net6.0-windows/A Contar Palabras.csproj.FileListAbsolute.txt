@@ -1,0 +1,17 @@
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\bin\Debug\net6.0-windows\A Contar Palabras.exe
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\bin\Debug\net6.0-windows\A Contar Palabras.deps.json
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\bin\Debug\net6.0-windows\A Contar Palabras.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\bin\Debug\net6.0-windows\A Contar Palabras.dll
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\bin\Debug\net6.0-windows\A Contar Palabras.pdb
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A_Contar_Palabras.frmContador.resources
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.csproj.GenerateResource.cache
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.dll
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\refint\A Contar Palabras.dll
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.pdb
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\A Contar Palabras.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Colecciones\A Contar Palabras\obj\Debug\net6.0-windows\ref\A Contar Palabras.dll

@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Invento argentino.exe
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Invento argentino.deps.json
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Invento argentino.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Invento argentino.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Invento argentino.pdb
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\refint\Invento argentino.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.pdb
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\Invento argentino.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Invento argentino\obj\Debug\net6.0\ref\Invento argentino.dll

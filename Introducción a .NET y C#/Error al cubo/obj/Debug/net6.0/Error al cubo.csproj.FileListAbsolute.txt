@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\bin\Debug\net6.0\Error al cubo.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\bin\Debug\net6.0\Error al cubo.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\bin\Debug\net6.0\Error al cubo.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\bin\Debug\net6.0\Error al cubo.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\bin\Debug\net6.0\Error al cubo.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\refint\Error al cubo.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\Error al cubo.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Error al cubo\obj\Debug\net6.0\ref\Error al cubo.dll

@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Calculadora de áreas.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\refint\Calculadora de áreas.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\Calculadora de áreas.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calculadora de áreas\obj\Debug\net6.0\ref\Calculadora de áreas.dll

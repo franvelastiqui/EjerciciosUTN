@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\El viajar es un placer.exe
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\El viajar es un placer.deps.json
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\El viajar es un placer.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\El viajar es un placer.dll
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\El viajar es un placer.pdb
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.dll
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\refint\El viajar es un placer.dll
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.pdb
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\El viajar es un placer.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Herencia\El viajar es un placer\obj\Debug\net6.0\ref\El viajar es un placer.dll

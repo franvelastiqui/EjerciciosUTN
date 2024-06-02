@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\bin\Debug\net6.0\Años bisiestos.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\bin\Debug\net6.0\Años bisiestos.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\bin\Debug\net6.0\Años bisiestos.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\bin\Debug\net6.0\Años bisiestos.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\bin\Debug\net6.0\Años bisiestos.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\refint\Años bisiestos.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\Años bisiestos.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Años bisiestos\obj\Debug\net6.0\ref\Años bisiestos.dll

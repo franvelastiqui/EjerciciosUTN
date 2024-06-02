@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPokemon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pokemon>
+    <Id>1</Id>
+    <Nombre>Bulbasur</Nombre>
+    <Tipo>Planta</Tipo>
+    <Entrenador>Ash</Entrenador>
+    <UrlImagen>C:\Users\Franco\Desktop\Imagenes Prueba Pokemon\bulbasur.png</UrlImagen>
+  </Pokemon>
+  <Pokemon>
+    <Id>4</Id>
+    <Nombre>Charmander</Nombre>
+    <Tipo>Fuego</Tipo>
+    <Entrenador>Brock</Entrenador>
+    <UrlImagen>C:\Users\Franco\Desktop\Imagenes Prueba Pokemon\charmander.png</UrlImagen>
+  </Pokemon>
+  <Pokemon>
+    <Id>7</Id>
+    <Nombre>Squirtle</Nombre>
+    <Tipo>Agua</Tipo>
+    <Entrenador>Brock</Entrenador>
+    <UrlImagen>C:\Users\Franco\Desktop\Imagenes Prueba Pokemon\squirtle.png</UrlImagen>
+  </Pokemon>
+  <Pokemon>
+    <Id>16</Id>
+    <Nombre>Pidgey</Nombre>
+    <Tipo>Volador</Tipo>
+    <Entrenador>Brock</Entrenador>
+    <UrlImagen>C:\Users\Franco\Desktop\Imagenes Prueba Pokemon\pidgey.png</UrlImagen>
+  </Pokemon>
+  <Pokemon>
+    <Id>25</Id>
+    <Nombre>Pikachu</Nombre>
+    <Tipo>Eléctrico</Tipo>
+    <Entrenador>Ash</Entrenador>
+    <UrlImagen>C:\Users\Franco\Desktop\Imagenes Prueba Pokemon\pikachu.png</UrlImagen>
+  </Pokemon>
+</ArrayOfPokemon>

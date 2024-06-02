@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Desea continuar.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Desea continuar.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Desea continuar.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Desea continuar.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Desea continuar.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\refint\Desea continuar.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\Desea continuar.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Desea continuar\obj\Debug\net6.0\ref\Desea continuar.dll

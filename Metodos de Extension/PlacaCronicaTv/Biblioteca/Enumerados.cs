@@ -1,0 +1,1 @@
+﻿public enum Estaciones { verano, otoño, invierno, primavera}

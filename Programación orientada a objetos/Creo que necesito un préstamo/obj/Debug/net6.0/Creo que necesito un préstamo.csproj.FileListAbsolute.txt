@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Creo que necesito un préstamo.exe
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Creo que necesito un préstamo.deps.json
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Creo que necesito un préstamo.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Creo que necesito un préstamo.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Creo que necesito un préstamo.pdb
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\refint\Creo que necesito un préstamo.dll
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.pdb
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\Creo que necesito un préstamo.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Programación orientada a objetos\Creo que necesito un préstamo\obj\Debug\net6.0\ref\Creo que necesito un préstamo.dll

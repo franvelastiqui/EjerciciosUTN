@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tirame un centro/1.0.0": {
+        "runtime": {
+          "Tirame un centro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tirame un centro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

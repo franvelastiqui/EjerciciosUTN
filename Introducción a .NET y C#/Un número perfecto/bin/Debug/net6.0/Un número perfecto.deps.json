@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Un número perfecto/1.0.0": {
+        "runtime": {
+          "Un número perfecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Un número perfecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

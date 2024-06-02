@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\bin\Debug\net6.0\Numeros locos II.exe
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\bin\Debug\net6.0\Numeros locos II.deps.json
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\bin\Debug\net6.0\Numeros locos II.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\bin\Debug\net6.0\Numeros locos II.dll
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\bin\Debug\net6.0\Numeros locos II.pdb
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.dll
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\refint\Numeros locos II.dll
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.pdb
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\Numeros locos II.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Colecciones\Numeros locos II\obj\Debug\net6.0\ref\Numeros locos II.dll

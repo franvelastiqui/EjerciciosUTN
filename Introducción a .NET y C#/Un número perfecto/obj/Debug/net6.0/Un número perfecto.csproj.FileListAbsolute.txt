@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\bin\Debug\net6.0\Un número perfecto.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\bin\Debug\net6.0\Un número perfecto.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\bin\Debug\net6.0\Un número perfecto.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\bin\Debug\net6.0\Un número perfecto.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\bin\Debug\net6.0\Un número perfecto.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\refint\Un número perfecto.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\Un número perfecto.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Un número perfecto\obj\Debug\net6.0\ref\Un número perfecto.dll

@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\bin\Debug\net6.0\Dibujando un triángulo rectángulo.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\bin\Debug\net6.0\Dibujando un triángulo rectángulo.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\bin\Debug\net6.0\Dibujando un triángulo rectángulo.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\bin\Debug\net6.0\Dibujando un triángulo rectángulo.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\bin\Debug\net6.0\Dibujando un triángulo rectángulo.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\refint\Dibujando un triángulo rectángulo.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\Dibujando un triángulo rectángulo.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo rectángulo\obj\Debug\net6.0\ref\Dibujando un triángulo rectángulo.dll

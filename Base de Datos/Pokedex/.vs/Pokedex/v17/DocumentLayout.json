@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C351CB19-3E29-40AD-8604-4E47288B5669}|PokedexClases\\PokedexClases.csproj|c:\\users\\franco\\documents\\tup\\base de datos\\pokedex\\pokedexclases\\pokemondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C351CB19-3E29-40AD-8604-4E47288B5669}|PokedexClases\\PokedexClases.csproj|solutionrelative:pokedexclases\\pokemondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72F0CF2-C2D9-4A5C-8FB3-793167596F06}|InterfazPokedex\\InterfazPokedex.csproj|c:\\users\\franco\\documents\\tup\\base de datos\\pokedex\\interfazpokedex\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72F0CF2-C2D9-4A5C-8FB3-793167596F06}|InterfazPokedex\\InterfazPokedex.csproj|solutionrelative:interfazpokedex\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72F0CF2-C2D9-4A5C-8FB3-793167596F06}|InterfazPokedex\\InterfazPokedex.csproj|C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\interfazpokedex\\frmserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C72F0CF2-C2D9-4A5C-8FB3-793167596F06}|InterfazPokedex\\InterfazPokedex.csproj|solutionrelative:interfazpokedex\\frmserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\InterfazPokedex\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "InterfazPokedex\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\InterfazPokedex\\FrmPrincipal.cs",
+              "RelativeToolTip": "InterfazPokedex\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAPMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:03:19.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSerializacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\InterfazPokedex\\FrmSerializacion.cs",
+              "RelativeDocumentMoniker": "InterfazPokedex\\FrmSerializacion.cs",
+              "ToolTip": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\InterfazPokedex\\FrmSerializacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazPokedex\\FrmSerializacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:00:41.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\PokedexClases\\PokemonDAO.cs",
+              "RelativeDocumentMoniker": "PokedexClases\\PokemonDAO.cs",
+              "ToolTip": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\Pokedex\\PokedexClases\\PokemonDAO.cs",
+              "RelativeToolTip": "PokedexClases\\PokemonDAO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T03:31:04.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

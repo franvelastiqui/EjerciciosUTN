@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\bin\Debug\net6.0\Los primos.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\bin\Debug\net6.0\Los primos.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\bin\Debug\net6.0\Los primos.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\bin\Debug\net6.0\Los primos.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\bin\Debug\net6.0\Los primos.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\refint\Los primos.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\Los primos.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Los primos\obj\Debug\net6.0\ref\Los primos.dll

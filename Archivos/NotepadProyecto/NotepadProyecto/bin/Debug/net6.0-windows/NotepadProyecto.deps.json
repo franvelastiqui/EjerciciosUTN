@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NotepadProyecto/1.0.0": {
+        "dependencies": {
+          "IO": "1.0.0"
+        },
+        "runtime": {
+          "NotepadProyecto.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "runtime": {
+          "IO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotepadProyecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

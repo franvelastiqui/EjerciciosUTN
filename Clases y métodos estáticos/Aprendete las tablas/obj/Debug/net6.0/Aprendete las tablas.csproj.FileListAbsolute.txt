@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Aprendete las tablas.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\refint\Aprendete las tablas.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\Aprendete las tablas.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Aprendete las tablas\obj\Debug\net6.0\ref\Aprendete las tablas.dll

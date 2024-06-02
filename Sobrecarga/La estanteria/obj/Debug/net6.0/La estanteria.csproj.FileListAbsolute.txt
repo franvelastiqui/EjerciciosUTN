@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\La estanteria.exe
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\La estanteria.deps.json
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\La estanteria.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\La estanteria.dll
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\La estanteria.pdb
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.dll
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\refint\La estanteria.dll
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.pdb
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\La estanteria.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Sobrecarga\La estanteria\obj\Debug\net6.0\ref\La estanteria.dll

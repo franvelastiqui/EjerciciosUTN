@@ -1,0 +1,12 @@
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\bin\Debug\net6.0\PokedexClases.deps.json
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\bin\Debug\net6.0\PokedexClases.dll
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\bin\Debug\net6.0\PokedexClases.pdb
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.dll
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\refint\PokedexClases.dll
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\PokedexClases.pdb
+C:\Users\Franco\Documents\TUP\Base de Datos\Pokedex\PokedexClases\obj\Debug\net6.0\ref\PokedexClases.dll

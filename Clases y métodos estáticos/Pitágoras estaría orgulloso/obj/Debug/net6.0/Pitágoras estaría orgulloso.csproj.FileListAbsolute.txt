@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\bin\Debug\net6.0\Pitágoras estaría orgulloso.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\bin\Debug\net6.0\Pitágoras estaría orgulloso.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\bin\Debug\net6.0\Pitágoras estaría orgulloso.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\bin\Debug\net6.0\Pitágoras estaría orgulloso.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\bin\Debug\net6.0\Pitágoras estaría orgulloso.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\refint\Pitágoras estaría orgulloso.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\Pitágoras estaría orgulloso.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Pitágoras estaría orgulloso\obj\Debug\net6.0\ref\Pitágoras estaría orgulloso.dll

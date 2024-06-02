@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Puesto de atención.exe
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Puesto de atención.deps.json
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Puesto de atención.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Puesto de atención.dll
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Puesto de atención.pdb
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.dll
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\refint\Puesto de atención.dll
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.pdb
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\Puesto de atención.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Encapsulamiento\Puesto de atención\obj\Debug\net6.0\ref\Puesto de atención.dll

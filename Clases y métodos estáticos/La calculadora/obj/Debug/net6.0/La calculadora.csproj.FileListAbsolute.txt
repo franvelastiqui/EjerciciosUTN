@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\La calculadora.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\La calculadora.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\La calculadora.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\La calculadora.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\La calculadora.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\refint\La calculadora.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\La calculadora.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\La calculadora\obj\Debug\net6.0\ref\La calculadora.dll

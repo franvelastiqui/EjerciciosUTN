@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\bin\Debug\net6.0\Máximo, mínimo y promedio.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\bin\Debug\net6.0\Máximo, mínimo y promedio.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\bin\Debug\net6.0\Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\bin\Debug\net6.0\Máximo, mínimo y promedio.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\bin\Debug\net6.0\Máximo, mínimo y promedio.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\refint\Máximo, mínimo y promedio.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\Máximo, mínimo y promedio.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Máximo, mínimo y promedio\obj\Debug\net6.0\ref\Máximo, mínimo y promedio.dll

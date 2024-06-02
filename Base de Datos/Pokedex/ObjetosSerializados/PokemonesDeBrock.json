@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 4,
+    "Nombre": "Charmander",
+    "Tipo": "Fuego",
+    "Entrenador": "Brock",
+    "UrlImagen": "C:\\Users\\Franco\\Desktop\\Imagenes Prueba Pokemon\\charmander.png"
+  },
+  {
+    "Id": 7,
+    "Nombre": "Squirtle",
+    "Tipo": "Agua",
+    "Entrenador": "Brock",
+    "UrlImagen": "C:\\Users\\Franco\\Desktop\\Imagenes Prueba Pokemon\\squirtle.png"
+  },
+  {
+    "Id": 16,
+    "Nombre": "Pidgey",
+    "Tipo": "Volador",
+    "Entrenador": "Brock",
+    "UrlImagen": "C:\\Users\\Franco\\Desktop\\Imagenes Prueba Pokemon\\pidgey.png"
+  }
+]

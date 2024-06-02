@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Calculadora de formas.exe
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Calculadora de formas.deps.json
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Calculadora de formas.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Calculadora de formas.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Calculadora de formas.pdb
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\refint\Calculadora de formas.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.pdb
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\Calculadora de formas.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Calculadora de formas\obj\Debug\net6.0\ref\Calculadora de formas.dll

@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\bin\Debug\net6.0\Calcular un factorial.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\bin\Debug\net6.0\Calcular un factorial.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\bin\Debug\net6.0\Calcular un factorial.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\bin\Debug\net6.0\Calcular un factorial.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\bin\Debug\net6.0\Calcular un factorial.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\refint\Calcular un factorial.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\Calcular un factorial.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Calcular un factorial\obj\Debug\net6.0\ref\Calcular un factorial.dll

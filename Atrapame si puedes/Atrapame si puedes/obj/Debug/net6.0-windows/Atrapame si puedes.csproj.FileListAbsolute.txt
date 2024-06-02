@@ -1,0 +1,17 @@
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\bin\Debug\net6.0-windows\Atrapame si puedes.exe
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\bin\Debug\net6.0-windows\Atrapame si puedes.deps.json
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\bin\Debug\net6.0-windows\Atrapame si puedes.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\bin\Debug\net6.0-windows\Atrapame si puedes.dll
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\bin\Debug\net6.0-windows\Atrapame si puedes.pdb
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame_si_puedes.Form1.resources
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.csproj.GenerateResource.cache
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.dll
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\refint\Atrapame si puedes.dll
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.pdb
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\Atrapame si puedes.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Atrapame si puedes\Atrapame si puedes\obj\Debug\net6.0-windows\ref\Atrapame si puedes.dll

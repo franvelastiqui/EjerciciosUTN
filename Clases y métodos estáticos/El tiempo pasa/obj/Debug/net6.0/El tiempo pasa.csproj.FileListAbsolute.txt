@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\El tiempo pasa.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\Entidades.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\refint\El tiempo pasa.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\El tiempo pasa.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\El tiempo pasa\obj\Debug\net6.0\ref\El tiempo pasa.dll

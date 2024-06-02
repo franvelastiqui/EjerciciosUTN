@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\bin\Debug\net6.0\Validador de rangos.exe
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\bin\Debug\net6.0\Validador de rangos.deps.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\bin\Debug\net6.0\Validador de rangos.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\bin\Debug\net6.0\Validador de rangos.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\bin\Debug\net6.0\Validador de rangos.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\refint\Validador de rangos.dll
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.pdb
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\Validador de rangos.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Clases y métodos estáticos\Validador de rangos\obj\Debug\net6.0\ref\Validador de rangos.dll

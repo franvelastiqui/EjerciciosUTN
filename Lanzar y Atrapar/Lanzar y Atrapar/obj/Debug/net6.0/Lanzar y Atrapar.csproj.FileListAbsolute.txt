@@ -1,0 +1,18 @@
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Lanzar y Atrapar.exe
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Lanzar y Atrapar.deps.json
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Lanzar y Atrapar.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Lanzar y Atrapar.dll
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Lanzar y Atrapar.pdb
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.csproj.CopyComplete
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.dll
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\refint\Lanzar y Atrapar.dll
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.pdb
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\Lanzar y Atrapar.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Lanzar y Atrapar\Lanzar y Atrapar\obj\Debug\net6.0\ref\Lanzar y Atrapar.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotepadProyecto", "NotepadProyecto\NotepadProyecto.csproj", "{45124261-EF33-46C5-8626-2A2E07A68020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "IO\IO.csproj", "{4481884C-7BA5-4135-B3CE-D553D9C2EA58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas", "Pruebas\Pruebas.csproj", "{FF47AD89-9771-40A8-BACC-02C769450A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45124261-EF33-46C5-8626-2A2E07A68020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45124261-EF33-46C5-8626-2A2E07A68020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45124261-EF33-46C5-8626-2A2E07A68020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45124261-EF33-46C5-8626-2A2E07A68020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4481884C-7BA5-4135-B3CE-D553D9C2EA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4481884C-7BA5-4135-B3CE-D553D9C2EA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4481884C-7BA5-4135-B3CE-D553D9C2EA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4481884C-7BA5-4135-B3CE-D553D9C2EA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF47AD89-9771-40A8-BACC-02C769450A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF47AD89-9771-40A8-BACC-02C769450A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF47AD89-9771-40A8-BACC-02C769450A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF47AD89-9771-40A8-BACC-02C769450A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9164343E-2E56-443D-B564-84CA50C28E06}
+	EndGlobalSection
+EndGlobal

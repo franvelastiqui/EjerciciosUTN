@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\bin\Debug\net6.0\Sobrescribiendo.exe
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\bin\Debug\net6.0\Sobrescribiendo.deps.json
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\bin\Debug\net6.0\Sobrescribiendo.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\bin\Debug\net6.0\Sobrescribiendo.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\bin\Debug\net6.0\Sobrescribiendo.pdb
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\refint\Sobrescribiendo.dll
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.pdb
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\Sobrescribiendo.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Polimorfismo\Sobrescribiendo\obj\Debug\net6.0\ref\Sobrescribiendo.dll

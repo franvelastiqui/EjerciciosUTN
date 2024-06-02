@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\bin\Debug\net6.0\Tirame un centro.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\bin\Debug\net6.0\Tirame un centro.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\bin\Debug\net6.0\Tirame un centro.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\bin\Debug\net6.0\Tirame un centro.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\bin\Debug\net6.0\Tirame un centro.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\refint\Tirame un centro.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\Tirame un centro.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Tirame un centro\obj\Debug\net6.0\ref\Tirame un centro.dll

@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\bin\Debug\net6.0\Dibujando un triángulo equilátero.exe
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\bin\Debug\net6.0\Dibujando un triángulo equilátero.deps.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\bin\Debug\net6.0\Dibujando un triángulo equilátero.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\bin\Debug\net6.0\Dibujando un triángulo equilátero.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\bin\Debug\net6.0\Dibujando un triángulo equilátero.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\refint\Dibujando un triángulo equilátero.dll
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.pdb
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\Dibujando un triángulo equilátero.genruntimeconfig.cache
+C:\Users\Franco\Documents\TUP\Introducción a .NET y C#\Dibujando un triángulo equilátero\obj\Debug\net6.0\ref\Dibujando un triángulo equilátero.dll

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RleEqvjA3sFI/FyPuq0LDJqrYoxD3G7rcjYfMMjtZ8OKSoINtRRgUc3ElFIRn6Yo3LY+wFhzOb8GwjTj9EAzPg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Franco\\Documents\\TUP\\Base de Datos\\SteamNoSteam\\Vista\\Vista.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Entidades no es compatible con net5.0-windows7.0 (.NETCoreApp,Version=v5.0). El proyecto Entidades admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Entidades",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

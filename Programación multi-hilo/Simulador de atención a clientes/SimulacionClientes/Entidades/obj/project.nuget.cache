@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8B5GsOlxcjFXFD6/HVJMEOPP9CpcQrRd7FdAdQTDeznosi4p2tdOFoSETrhfSznIqlFD+kAcoS+PjWHaZSXyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franco\\Documents\\TUP\\Programación multi-hilo\\Simulador de atención a clientes\\SimulacionClientes\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franco\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
